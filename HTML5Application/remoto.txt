@@ -1,0 +1,2 @@
+arquivo criado remotamente
+para teste de integração com a IDE netbeans
